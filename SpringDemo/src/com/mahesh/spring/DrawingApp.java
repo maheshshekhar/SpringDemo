@@ -18,10 +18,6 @@ public class DrawingApp {
 		circle Circle = (circle) context.getBean("circle");
 		Circle.draw();
 		
-		circle Circle11 = (circle) context.getBean("circle");
-		Circle11.draw();
-	
-		
 	}
 
 }
