@@ -17,6 +17,9 @@ public class DrawingApp {
 		
 		circle Circle = (circle) context.getBean("circle");
 		Circle.draw();
+		
+		circle Circle = (circle) context.getBean("circle");
+		Circle.draw();
 	
 		
 	}
